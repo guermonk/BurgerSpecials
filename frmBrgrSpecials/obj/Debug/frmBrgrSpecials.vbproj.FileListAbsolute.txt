@@ -1,0 +1,12 @@
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\bin\Debug\frmBrgrSpecials.exe.config
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\bin\Debug\frmBrgrSpecials.exe
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\bin\Debug\frmBrgrSpecials.pdb
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\bin\Debug\frmBrgrSpecials.xml
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.vbprojAssemblyReference.cache
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.Form1.resources
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.Resources.resources
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.vbproj.GenerateResource.cache
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.vbproj.CoreCompileInputs.cache
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.exe
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.xml
+C:\Users\guermonprez_kenji\source\repos\frmBrgrSpecials\obj\Debug\frmBrgrSpecials.pdb
